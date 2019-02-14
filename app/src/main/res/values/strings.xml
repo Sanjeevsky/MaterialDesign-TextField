@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text Field</string>
+    <string name="userid">UserId</string>
+    <string name="password">Password</string>
+</resources>
